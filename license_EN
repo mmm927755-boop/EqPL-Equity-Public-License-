@@ -1,0 +1,23 @@
+Equity Public License (EqPL) v1.0
+
+Copyright (c) [2026] [the osmium software(osm)]
+
+The Equity Public License (EqPL) is governed by the following six core principles:
+
+1. Public Source Availability
+The complete source code of the Software under EqPL, as well as any modifications or forks thereof, must be published on publicly accessible platforms with free and unrestricted access for everyone.
+
+2. Copyleft (Share-Alike)
+Any derivative work that incorporates parts of the Software under EqPL must also be distributed under the terms of the Equity Public License (EqPL).
+
+3. Author's Commercial Exclusivity
+No party other than the Original Author of the initial Software has the right to charge mandatory fees, sell licenses, or monetize the distribution of the Software itself or its forks. Voluntary donations to third-party contributors are permitted solely in relation to newly created independent modules (see Section 5).
+
+4. Freedom to Use and Fork without Paywalls
+Any individual or entity has the right to study, modify, improve, distribute copies of the Software free of charge, and release forks, provided they do not sell access to, restrict, or disable the original features of the Software.
+
+5. Monetization of Independent Add-ons
+A third-party developer has the right to create and charge fees for access (including in closed-source binary form) to new features, drivers, and modules that do not exist in the original version of the Software, provided that such additions connect as independent extensions via open interfaces and do not hinder the free operation of the base Software.
+
+6. Disclaimer of Warranty and Limitation of Liability
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT. IN NO EVENT SHALL THE ORIGINAL AUTHOR OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM, OUT OF, OR IN CONNECTION WITH THE SOFTWARE OR ITS FORKS.
